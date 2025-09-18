@@ -9,7 +9,7 @@ export const FirebaseProvider = ({ children }) => {
     const [fbDB, setFbDB] = useState();
 
     const firebaseConfig = {
-        apiKey: "AIzaSyAdj-FlfzzCQKaGzzyZCvUqIh0QxIoTn_s",
+        
         authDomain: "fallguard-77141.firebaseapp.com",
         projectId: "fallguard-77141",
         storageBucket: "fallguard-77141.appspot.com",
